@@ -1,0 +1,17 @@
+<RCC>
+    <qresource prefix="/Images">
+        <file>Images/CryptMessageIcon.png</file>
+        <file>Images/DecryptMessageIcon.png</file>
+        <file>Images/ExitVoxSolaIcon.png</file>
+        <file>Images/PlayMessageIcon.png</file>
+        <file>Images/SaveCryptedMessageIcon.png</file>
+        <file>Images/StopPlayingCryptedMessageIcon.png</file>
+        <file>Images/LockScreenNX-01Wallpaper.png</file>
+        <file>Images/VoxSolaMainDialogWallpaper.png</file>
+        <file>Images/VoxSolaIcon.ico</file>
+    </qresource>
+    <qresource prefix="/Sounds">
+        <file>Sounds/First_Wave_Signal.wav</file>
+        <file>Sounds/Zero_Wave_Signal.wav</file>
+    </qresource>
+</RCC>
